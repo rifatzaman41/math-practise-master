@@ -1,2 +1,2 @@
 # math-practise-master
-android project using java
+android app math quiz project using java
